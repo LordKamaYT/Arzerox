@@ -1,6 +1,13 @@
 # Arzerox
+<html>
+<body>
+<!--StartFragment-->
 
-https://img.shields.io/github/stars/lordkamayt/arzerox?style=social
+![Stars](https://img.shields.io/github/stars/lordkamayt/arzerox?style=social) ![Downloads](https://img.shields.io/github/downloads/lordkamayt/arzerox/total) ![Commits](https://img.shields.io/github/commit-activity/m/lordkamayt/arzerox)
+
+---
+
+<!--EndFragment-->
 
 # Table of Contents
 
