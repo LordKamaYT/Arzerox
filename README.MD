@@ -30,7 +30,7 @@ Configuration
 Releases
 
 - [V.1.0.0 Alpha Pre-Release](https://github.com/LordKamaYT/Arzerox/releases/tag/Pre-Release)
-- Soon
+- [V2.0.0](https://github.com/LordKamaYT/Arzerox/releases/tag/V2.0.0)
 
 # Arzerox
 
